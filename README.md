@@ -38,7 +38,7 @@ jmcclure@dallasnews.com
 
 **[General](https://bl.ocks.org/mbostock/3808218) [Update](https://bl.ocks.org/mbostock/3808221) [Pattern](https://bl.ocks.org/mbostock/3808234)** -- Mike Bostock's guide in three parts to creating dynamic d3 charts.
 
-**[Enter, Update, Exit](https://medium.com/@c_behrens/enter-update-exit-6cafc6014c36#.klk1swnq0)** -- Another good article introducing the General Update Pattern.
+**[Enter, Update, Exit](https://medium.com/@c_behrens/enter-update-exit-6cafc6014c36#.klk1swnq0)** -- Another good article introducing the General Update Pattern. **Check this one out for Thursday!!!**
 
 **[D3.js documentation](https://github.com/mbostock/d3/wiki)** -- D3's official documentation.
 
