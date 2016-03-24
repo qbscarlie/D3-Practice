@@ -20,7 +20,7 @@
 
 
 
-// ATTACH SVG TO THE DOM
+// APPEND SVG TO THE DOM
 
 
 

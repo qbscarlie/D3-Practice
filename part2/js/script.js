@@ -1,0 +1,50 @@
+// DEFINE CHART DIMENSIONS
+
+
+
+// DEFINE SCALES
+
+
+
+// DEFINE AXES
+
+
+
+// APPEND SVG AND AXES GROUPS TO THE DOM
+
+
+
+// IMPORT DATA
+
+
+
+// PREPARE DATA
+
+
+// WRITE DRAW FUNCTION
+
+
+
+// SET SCALES DOMAIN
+
+
+
+// CALL AXES
+
+
+
+// BARS
+// 1) JOIN
+
+
+
+// 2) ENTER
+
+
+
+
+// 3) UPDATE
+
+
+
+// 4) EXIT
