@@ -23,7 +23,9 @@
 
 ### Exercise
 
-We'll be creating a scatterplot for [this story](http://educationblog.dallasnews.com/2015/09/texas-can-boost-sagging-sat-scores-with-this-one-simple-trick.html/) about Texas SAT scores that was published by Holly Hacker on Sept. 15, 2015 in *The Dallas Morning News*.
+**Part 1** We'll be creating a scatterplot for [this story](http://educationblog.dallasnews.com/2015/09/texas-can-boost-sagging-sat-scores-with-this-one-simple-trick.html/) about Texas SAT scores that was published by Holly Hacker on Sept. 15, 2015 in *The Dallas Morning News*.
+
+**Part 2** We'll use a nondescript dataset to practice D3's General Update Pattern.
 
 ### Contact
 
