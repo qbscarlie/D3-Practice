@@ -25,6 +25,11 @@
 
 We'll be creating a scatterplot for [this story](http://educationblog.dallasnews.com/2015/09/texas-can-boost-sagging-sat-scores-with-this-one-simple-trick.html/) about Texas SAT scores that was published by Holly Hacker on Sept. 15, 2015 in *The Dallas Morning News*.
 
+### Contact
+
+jmcclure@dallasnews.com
+
+[@JonRMcClure](https://twitter.com/JonRMcClure)
 
 
 ### Resources
@@ -33,6 +38,8 @@ We'll be creating a scatterplot for [this story](http://educationblog.dallasnews
 
 **[General](https://bl.ocks.org/mbostock/3808218) [Update](https://bl.ocks.org/mbostock/3808221) [Pattern](https://bl.ocks.org/mbostock/3808234)** -- Mike Bostock's guide in three parts to creating dynamic d3 charts.
 
-**[Enter, Update, Exit](https://medium.com/@c_behrens/enter-update-exit-6cafc6014c36#.klk1swnq0)** -- Another good article introducing the General Update Pattern.
+**[Enter, Update, Exit](https://medium.com/@c_behrens/enter-update-exit-6cafc6014c36#.klk1swnq0)** -- Another good article introducing the General Update Pattern. **Check this one out for Thursday!!!**
 
 **[D3.js documentation](https://github.com/mbostock/d3/wiki)** -- D3's official documentation.
+
+**[StackOverflow](http://stackoverflow.com/questions/tagged/d3.js)** -- All kinds of tips and code solutions on the site that launched a million developer careers.
